@@ -7,6 +7,11 @@ xcuserdata
 xcuserdata/*
 *.xcworkspace/*
 *.xcworkspace
+/bazel-bin
+/bazel-genfiles
+/bazel-out
+/bazel-sqlcipher
+/bazel-testlogs
 /Makefile
 /.libs
 /.target_source
