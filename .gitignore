@@ -1,3 +1,4 @@
+.*.sw[nop]
 *.lo
 *.o
 *.mode1v3
